@@ -7,8 +7,7 @@
 -  How to reach me: Ameerkn76@gmail.com 
 -  Pronouns: Success is mine  
 - ⚡ Fun fact:  Ameer  is Amir ' and you will never be Amir. 
-##  experience Skills  
-
+##  Experience Skills  
 <hr>
 ##  About Me!
 -  Bashir S Omar, born in Shawwal. 
@@ -27,7 +26,6 @@
        <b>Note:</b> Top languages is my experience and skill level in programming languages. <br/> 
 ## Connect with me: <p align="left"> 
 <a href='https://wa.me/2348164808800?text=Assalamu-alaikum!,%20Hi%20My%20Name%20is'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a> 
-<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a> 
 <a href='mailto:ameerkn76@gmail.com'>
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a> 
 <a href='https://www.linkedin.com/in/amir-kano-bk-5752b0239'>
