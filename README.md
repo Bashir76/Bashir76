@@ -8,7 +8,7 @@
 -  Pronouns: Success is mine  
 - ⚡ Fun fact:  Ameer  is Amir ' and you will never be Amir. 
 ##  Experience Skills  
-<hr>
+
 ##  About Me!
 -  Bashir S Omar, born in Shawwal. 
 :location: Live in Kano Nigeria  
