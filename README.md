@@ -1,4 +1,5 @@
 ### Hi there  
+<i><b>
 -  I’m Bashir, Amir Kano  
 ----------- I’ve been learning to code for 2Years and then I moved to SE, 
 - I’m Full Stack Software Engineering at  Holberton School 
@@ -7,6 +8,7 @@
 -  How to reach me: Ameerkn76@gmail.com 
 -  Pronouns: Success is mine  
 - ⚡ Fun fact:  Ameer  is Amir ' and you will never be Amir. 
+</b></i>
 ##  Experience Skills  
 
 ##  About Me!
