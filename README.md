@@ -16,12 +16,11 @@
 :location: Live in Kano Nigeria  
 
 ## :computer: Tech Skills !
-      [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) !
-      [PHP](https://imv&gnnmg.shields. io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ! 
-      [Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) !
-      [CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) !
-      [Html](https://img.shields.io/badge/html5-F05032?style=for-the-badge&logo=html&logoColor=white)
-    <br/> 
+      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) !
+[ShellScript](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) !
+[CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) !
+[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Html](https://img.shields.io/badge/Html-F05032?style=for-the-badge&logo=Html&logoColor=white)</br>
 ##  My Github Status !
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashir76&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"> 
        <img src="https://github-readme-status.vercel.app/api?username=bashir76&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"> <br> 
