@@ -1,14 +1,14 @@
-### Hi there  
+### Hi there 👐
 <b>
--  I’m Bashir, Amir Kano  
+- 🎉 I’m Bashir, Amir Kano  
 ----------- I’ve been learning to code for 2Years and then I moved to SE, 
-- I’m Full Stack Software Engineering at  Holberton School 
--  I’m looking to collaborate on quiz Web projects 
--  Ask me about myself 
--  How to reach me: Ameerkn76@gmail.com 
--  Pronouns: Success is mine  
-- ⚡ Fun fact:  Ameer  is Amir ' and you will never be Amir. 
-</b>
+- 🎓I’m Full Stack Software Engineering student at  Holberton School 
+-  👥I’m looking to collaborate on quiz Web projects 
+-  🌏Ask me about myself 
+-  💌How to reach me: Ameerkn76@gmail.com 
+-  🙂Pronouns: Success is mine  
+- ⚡ Fun fact:  Ameer  is Amir ' and you will never be Amir. </b>
+
 ##  Experience Skills  
 
 ##  About Me!
@@ -23,7 +23,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Html](https://img.shields.io/badge/Html-F05032?style=for-the-badge&logo=Html&logoColor=white)</br>
-##  🚥📊My Github Status !
+
+##  🚥My Github Status!
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashir76&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"> 
        <img src="https://github-readme-status.vercel.app/api?username=bashir76&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"> <br> 
        <b>Note:</b> Top languages is my experience and skill level in programming languages. <br/> 
