@@ -33,5 +33,5 @@
 <a href='mailto:ameerkn76@gmail.com'>
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a> 
 <a href='https://www.linkedin.com/in/amir-kano-bk-5752b0239'>
-<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> <a href='https://twitter.com/ameersomar1'>
+<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> <a href='https://twitter.com/amirkano5'>
 <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a> </p>
