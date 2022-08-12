@@ -2,8 +2,8 @@
 -  🎉 I’m Bashir, Amir Kano  
 ----------- I’ve been learning to code for 2Years and then I moved to SE, 
 - 🎓I’m Full Stack Software Engineering student at  Holberton School 
-- 👥I’m looking to collaborate on quiz Web projects 
-- Web Developer
+- 👥I’m looking to collaborate on Quiz Web projects 
+- Web3 Developer
 - 🌏Ask me about myself 
 - 💌How to reach me: Ameerkn76@gmail.com 
 - 🙂Pronouns: Success is mine  
@@ -21,7 +21,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![ShellScript](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Html](https://img.shields.io/badge/Html-F05032?style=for-the-badge&logo=Html&logoColor=white)
 <!-- ubuntu -->
 <a href="https://ubuntu.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=E95420&labelColor=2F333A" alt="Suite CRM"></a>
@@ -61,4 +60,7 @@
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a> 
 <a href='https://www.linkedin.com/in/amir-kano-bk-5752b0239'>
 <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> <a href='https://twitter.com/amirkano5'>
+
 <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bashir76&" alt="Bashir76" /></p>
