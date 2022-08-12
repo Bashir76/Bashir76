@@ -9,6 +9,8 @@
 - 🙂Pronouns: Success is mine  
 - ⚡ Fun fact:  Ameer  is Amir ' and you will never be Amir.
 
+ <img src="https://komarev.com/ghpvc/?username=Bashir76x&label=Profile%20views&color=0e75b6&style=flat" alt="Bashir76" align="Center" /> </p>
+
 ##  Experience Skills  
 
 ##  About Me!
